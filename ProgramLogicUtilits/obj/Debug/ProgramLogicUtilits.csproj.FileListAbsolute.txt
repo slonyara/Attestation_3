@@ -1,0 +1,11 @@
+C:\Project\Attestation_3-master\ProgramLogicUtilits\obj\Debug\ProgramLogicUtilits.csproj.CoreCompileInputs.cache
+C:\Project\Attestation_3-master\ProgramLogicUtilits\bin\Debug\ProgramLogicUtilits.dll
+C:\Project\Attestation_3-master\ProgramLogicUtilits\bin\Debug\ProgramLogicUtilits.pdb
+C:\Project\Attestation_3-master\ProgramLogicUtilits\obj\Debug\ProgramLogicUtilits.dll
+C:\Project\Attestation_3-master\ProgramLogicUtilits\obj\Debug\ProgramLogicUtilits.pdb
+C:\Project\Attestation_3\ProgramLogicUtilits\bin\Debug\ProgramLogicUtilits.dll
+C:\Project\Attestation_3\ProgramLogicUtilits\bin\Debug\ProgramLogicUtilits.pdb
+C:\Project\Attestation_3\ProgramLogicUtilits\obj\Debug\ProgramLogicUtilits.csprojResolveAssemblyReference.cache
+C:\Project\Attestation_3\ProgramLogicUtilits\obj\Debug\ProgramLogicUtilits.csproj.CoreCompileInputs.cache
+C:\Project\Attestation_3\ProgramLogicUtilits\obj\Debug\ProgramLogicUtilits.dll
+C:\Project\Attestation_3\ProgramLogicUtilits\obj\Debug\ProgramLogicUtilits.pdb
